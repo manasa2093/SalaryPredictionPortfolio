@@ -75,12 +75,15 @@ Below plot shows the distrubution of salary(target varibale). The salary range i
 <img width="765" alt="salary dist" src="https://user-images.githubusercontent.com/64856136/92647370-c701ae80-f2b5-11ea-9250-9aa7affc6013.png">
 ](url)
 
-The below plot shows the corelation between numeric variables- yearsExperince and milesFromMetropolis with salary
+The below plot shows the corelation between numeric variables- yearsExperince and milesFromMetropolis with salary.  <br />
+
+**Positive correlation-** Years of experience and salary -There is increase in salary with experience.  <br />
+**Negative correlation-** miles from metropolis and salary -If miles increase , salary decreases.
 
 
+<img width="657" alt="Screen Shot 2020-09-09 at 4 08 10 PM" src="https://user-images.githubusercontent.com/64856136/92647938-b69e0380-f2b6-11ea-9080-117500e55cbd.png">
 
-
-
+###CORRELATION MATRIX
 
 
 
