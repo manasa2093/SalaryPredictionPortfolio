@@ -67,6 +67,14 @@ This dataset contains both numeric and catergorical varibles.  <br />
 &nbsp; &nbsp;-degree:Educational qualification. eg. High school, masters <br />
 &nbsp; &nbsp;-industry: The industry where the company is specilized in.  <br />
 
+**Data Visualization** <br />
+
+Below plot shows the distrubution of salary(target varibale). The salary range is high between 80 to 150.
+
+[
+<img width="765" alt="salary dist" src="https://user-images.githubusercontent.com/64856136/92647370-c701ae80-f2b5-11ea-9250-9aa7affc6013.png">
+](url)
+
 
 
 
