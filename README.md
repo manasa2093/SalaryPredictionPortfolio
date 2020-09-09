@@ -75,6 +75,8 @@ Below plot shows the distrubution of salary(target varibale). The salary range i
 <img width="765" alt="salary dist" src="https://user-images.githubusercontent.com/64856136/92647370-c701ae80-f2b5-11ea-9250-9aa7affc6013.png">
 ](url)
 
+The below plot shows the corelation between numeric variables- yearsExperince and milesFromMetropolis with salary
+
 
 
 
