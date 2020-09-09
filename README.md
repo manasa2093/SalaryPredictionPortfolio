@@ -33,7 +33,7 @@ The tools I  used are Python and the libraries- numpy, pandas, matplotlib, seabo
 &nbsp; &nbsp; &nbsp; -Deploy solution  <br />
 &nbsp; &nbsp; &nbsp; -Featuring importance  <br />
 
-#**DEFINING THE PROBLEM **
+# **DEFINING THE PROBLEM **
 
 **Can we predict salary based on Job Description?**
 
@@ -53,7 +53,7 @@ For employers, it prevents the employers from being over paid resulting in incre
 
 &nbsp; &nbsp; -Help employers chose the correct candidates and pay.
 
-#**DISCOVER DATA **
+# **DISCOVER DATA **
 
 This dataset contains both numeric and catergorical varibles.  <br />
 **Numeric varibales -**  <br />
