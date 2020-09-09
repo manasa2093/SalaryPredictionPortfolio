@@ -24,9 +24,9 @@ The tools I  used are Python and the libraries- numpy, pandas, matplotlib, seabo
 &nbsp; &nbsp; Develop solutions  <br />
 &nbsp; &nbsp; &nbsp; -Establish a baseline  <br />
 &nbsp; &nbsp; &nbsp; -Machine Learning Models  <br />
-&nbsp; &nbsp; &nbsp; -Linear Regression  <br />
-&nbsp; &nbsp; &nbsp; -Random Forest  <br />
-&nbsp; &nbsp; &nbsp; -Gradient Boosting  <br />
+&nbsp; &nbsp; &nbsp; &nbsp;-Linear Regression  <br />
+&nbsp; &nbsp; &nbsp; &nbsp;-Random Forest  <br />
+&nbsp; &nbsp; &nbsp; &nbsp;-Gradient Boosting  <br />
 &nbsp; &nbsp; &nbsp; -Selecting the Best model  <br />
   
 &nbsp; &nbsp; Deploy model  <br />
@@ -91,8 +91,16 @@ Weak correlation exists between company id and salary <br />
 
 <img width="935" alt="correlation" src="https://user-images.githubusercontent.com/64856136/92648234-20b6a880-f2b7-11ea-95a7-f063da16d549.png">
 
+##**MODEL EVALUATION AND SELECTION** <br />
+
+Calculated the average salary per industry and  mean squared error as **baseline**. <br />
+
+I developed the following 3 models and selected the best model. I chose mean square error as performance metric. <br />
 
 
+
+
+**GOAL-** To find the best model that has mean square error below 360. <br />
 
 
 
