@@ -83,7 +83,7 @@ The below plot shows the corelation between numeric variables- yearsExperince an
 
 <img width="657" alt="Screen Shot 2020-09-09 at 4 08 10 PM" src="https://user-images.githubusercontent.com/64856136/92647938-b69e0380-f2b6-11ea-9080-117500e55cbd.png">
 
-##**CORRELATION MATRIX-** <br />
+## **CORRELATION MATRIX-** <br />
 
 **Strong positive correlation -** with each of the variables - Jobtype, degree, major, industry, experience have positive correlation with salary(our target variable). <br />
 **Negative correlation -** exist between miles from metropolis and salary. <br />
@@ -91,20 +91,21 @@ Weak correlation exists between company id and salary <br />
 
 <img width="935" alt="correlation" src="https://user-images.githubusercontent.com/64856136/92648234-20b6a880-f2b7-11ea-95a7-f063da16d549.png">
 
-##**MODEL EVALUATION AND SELECTION** <br />
+## **MODEL EVALUATION AND SELECTION** <br />
 
 Calculated the average salary per industry and  mean squared error as **baseline**. <br />
 
-I developed the following 3 models and selected the best model. I chose mean square error as performance metric. <br />
+I created dummies for categorical variables, scaled data for numeric data and I used 70% of data for training  and 30% for testing.  <br />
+Then, I developed the following 3 models and selected the best model. I chose mean square error as performance metric. <br />
 
 <img width="316" alt="results" src="https://user-images.githubusercontent.com/64856136/92648909-32e51680-f2b8-11ea-9c50-cb0af4f77adc.png">
 
 **GOAL-** To find the best model that has mean square error below 360. <br />
 
-Since Gradient Boosting gave us the lowest mean square error, so I used this model to predict the results for test_features dataset and saved it to csv file.
+Since Gradient Boosting gave us the lowest mean square error, so I used this model to predict the results for test_features dataset and saved it to csv file.  <br />
 
+Next, I checked the importance of each feature in the model. 
 
-
-
+<img width="980" alt="feature importance" src="https://user-images.githubusercontent.com/64856136/92649198-a6872380-f2b8-11ea-9151-efd0e96f9856.png">
 
 
