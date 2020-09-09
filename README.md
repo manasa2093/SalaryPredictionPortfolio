@@ -97,10 +97,11 @@ Calculated the average salary per industry and  mean squared error as **baseline
 
 I developed the following 3 models and selected the best model. I chose mean square error as performance metric. <br />
 
-
-
+<img width="316" alt="results" src="https://user-images.githubusercontent.com/64856136/92648909-32e51680-f2b8-11ea-9c50-cb0af4f77adc.png">
 
 **GOAL-** To find the best model that has mean square error below 360. <br />
+
+Since Gradient Boosting gave us the lowest mean square error, so I used this model to predict the results for test_features dataset and saved it to csv file.
 
 
 
