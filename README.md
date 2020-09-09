@@ -89,7 +89,8 @@ The below plot shows the corelation between numeric variables- yearsExperince an
 **Negative correlation -** exist between miles from metropolis and salary. <br />
 Weak correlation exists between company id and salary <br />
 
-<img width="935" alt="correlation" src="https://user-images.githubusercontent.com/64856136/92648234-20b6a880-f2b7-11ea-95a7-f063da16d549.png">
+<img width="892" alt="Correlation matrix" src="https://user-images.githubusercontent.com/64856136/92650160-1d70ec00-f2ba-11ea-8056-eef4339c36ad.png">
+
 
 ## **MODEL EVALUATION AND SELECTION** <br />
 
