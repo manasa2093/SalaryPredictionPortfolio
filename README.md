@@ -83,7 +83,13 @@ The below plot shows the corelation between numeric variables- yearsExperince an
 
 <img width="657" alt="Screen Shot 2020-09-09 at 4 08 10 PM" src="https://user-images.githubusercontent.com/64856136/92647938-b69e0380-f2b6-11ea-9080-117500e55cbd.png">
 
-###CORRELATION MATRIX
+##**CORRELATION MATRIX-** <br />
+
+**Strong positive correlation -** with each of the variables - Jobtype, degree, major, industry, experience have positive correlation with salary(our target variable). <br />
+**Negative correlation -** exist between miles from metropolis and salary. <br />
+Weak correlation exists between company id and salary <br />
+
+<img width="935" alt="correlation" src="https://user-images.githubusercontent.com/64856136/92648234-20b6a880-f2b7-11ea-95a7-f063da16d549.png">
 
 
 
