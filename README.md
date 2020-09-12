@@ -24,10 +24,11 @@ The tools I  used are Python and the libraries- numpy, pandas, matplotlib, seabo
 &nbsp; &nbsp; Develop solutions  <br />
 &nbsp; &nbsp; &nbsp; -Establish a baseline  <br />
 &nbsp; &nbsp; &nbsp; -Machine Learning Models  <br />
-&nbsp; &nbsp; &nbsp; &nbsp;-Linear Regression  <br />
-&nbsp; &nbsp; &nbsp; &nbsp;-Random Forest  <br />
-&nbsp; &nbsp; &nbsp; &nbsp;-Gradient Boosting  <br />
-&nbsp; &nbsp; &nbsp; -Selecting the Best model  <br />
+&nbsp; &nbsp; &nbsp; &nbsp;**-Linear Regression**  <br />
+&nbsp; &nbsp; &nbsp; &nbsp;**-Ridge Regression** <br />
+&nbsp; &nbsp; &nbsp; &nbsp;**-Random Forest**  <br />
+&nbsp; &nbsp; &nbsp; &nbsp;**-Gradient Boosting**  <br />
+&nbsp; &nbsp; &nbsp;-Selecting the Best model  <br />
   
 &nbsp; &nbsp; Deploy model  <br />
 &nbsp; &nbsp; &nbsp; -Deploy solution  <br />
