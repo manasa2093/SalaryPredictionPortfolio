@@ -54,7 +54,7 @@ For employers, it prevents the employers from being over paid resulting in incre
 
 &nbsp; &nbsp; -Help employers chose the correct candidates and pay.
 
-# **DISCOVER DATA **
+## **DISCOVER DATA-** <br />
 
 
 This dataset contains both numeric and catergorical varibles.  <br />
