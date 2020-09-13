@@ -18,16 +18,16 @@ The tools I  used are Python and the libraries- numpy, pandas, matplotlib, seabo
 
 # Table of Contents- 4D Method
 
-&nbsp; &nbsp; Define Problem  <br />
+&nbsp; &nbsp; **Define Problem**  <br />
 &nbsp; &nbsp; &nbsp; -Can we predict salary based on job description?  <br />
 &nbsp; &nbsp; &nbsp; -objectives  <br />
   
-&nbsp; &nbsp; Discover data  <br />
+&nbsp; &nbsp; **Discover data**  <br />
 &nbsp; &nbsp; &nbsp; -Load data  <br />
 &nbsp; &nbsp; &nbsp; -Exploratory Data Analysis(EDA)  <br />
 &nbsp; &nbsp; &nbsp; -Data Visualization  <br />
   
-&nbsp; &nbsp; Develop solutions  <br />
+&nbsp; &nbsp; **Develop solutions**  <br />
 &nbsp; &nbsp; &nbsp; -Establish a baseline  <br />
 &nbsp; &nbsp; &nbsp; -Machine Learning Models  <br />
 &nbsp; &nbsp; &nbsp; &nbsp;**-Linear Regression**  <br />
@@ -36,7 +36,7 @@ The tools I  used are Python and the libraries- numpy, pandas, matplotlib, seabo
 &nbsp; &nbsp; &nbsp; &nbsp;**-Gradient Boosting**  <br />
 &nbsp; &nbsp; &nbsp;-Selecting the Best model  <br />
   
-&nbsp; &nbsp; Deploy model  <br />
+&nbsp; &nbsp; **Deploy model**  <br />
 &nbsp; &nbsp; &nbsp; -Deploy solution  <br />
 &nbsp; &nbsp; &nbsp; -Featuring importance  <br />
 
@@ -46,14 +46,14 @@ The tools I  used are Python and the libraries- numpy, pandas, matplotlib, seabo
 
 Why it is important to predict salary ? Well, the purpose is multifaceted.
 
-Predicting salary based on Job location, skillset, experience and other factors serves both employers and employee purpose. Both can have financial gain ! How ?
+Predicting salary based on Job location, skillset, experience and other factors is beneficial to both employers and employee purpose.
 
-How this is useful to employees? <br />
+How this is useful to Jobseekers/employees? <br />
 &nbsp; &nbsp; -Can know whether your current pay is accurate represenation of your qualifications ? <br />
 &nbsp; &nbsp; -Take more informed decisions and update skills/knowledge to maximize salary. <br />
 &nbsp; &nbsp; -Professional growth and personal satisfaction. <br />
 
-For employers, it prevents the employers from being over paid resulting in increased financial budget each year.
+For employers, it helps the company in reducing the unnecessary cost while retaining the best talent.
 
 **Objectives**  <br />
 &nbsp; &nbsp; -Help employees take right decision in chosing a particular job.
