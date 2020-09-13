@@ -3,7 +3,13 @@ Salary Prediction Project (Python)
 
 **GOAL** : Predict salary based on Job Description
 
-**INTRODUCTION:** In this project, I am going to build predictive model for accurately predicting salaries based on three datasets.
+**INTRODUCTION:** The prediction of Salary structure in Human Resource department ( HR) of a company  contains two fold objectives, namely to  attract and retain the talented employees and show the door to the dead wood. <br />
+
+On the other hand, Salary prediction can also help the job seekers. It helps job seekers to  take more informed decisions and update their skills/knowledge to maximize salary. <br />
+
+**It is a win – win formula for both employers and job seekers.**  <br />
+
+In this project, I am going to build predictive model for accurately predicting salaries based on three datasets.
 
 **Train features and Train salaries-** This predictive model is trained using these 2 datasets consisting of 10 variables(including the target varibale) and 1 millon entries. <br />
 **Test features-**  This dataset is used for predicting the model which is built. <br />
