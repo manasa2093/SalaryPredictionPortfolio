@@ -117,4 +117,4 @@ Next, I checked the importance of each feature in the model.
 
 <img width="980" alt="feature importance" src="https://user-images.githubusercontent.com/64856136/92649198-a6872380-f2b8-11ea-9151-efd0e96f9856.png">
 
-
+Notebook url - https://github.com/manasa2093/SalaryPredictionPortfolio/blob/master/SalaryPredictionPortfolio.ipynb
